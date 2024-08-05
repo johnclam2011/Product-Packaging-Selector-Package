@@ -1,0 +1,11 @@
+{
+    "name": "boxselector/product-packaging-selector",
+    "description": "A package to select the smallest possible box for given products",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BoxSelector\\ProductPackagingSelector\\": "src/"
+        }
+    },
+    "require": {}
+}
